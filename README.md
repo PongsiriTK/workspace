@@ -8,7 +8,7 @@
 public class {
     public static void main
     (String args[]) {
-        System.out.print("Hello CI/CD");
+        System.out.print("Hello Github");
     }
     
 }
