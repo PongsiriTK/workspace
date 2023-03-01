@@ -8,7 +8,7 @@
 public class {
     public static void main
     (String args[]) {
-        System.out.print("Hello Pluto");
+        System.out.print("Hello Github");
     }
     
 }
